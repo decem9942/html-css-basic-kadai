@@ -1,0 +1,25 @@
+.all{
+  text-align: center;
+}
+.sky{
+  color: skyblue;
+}
+.pink{
+  color: rgb(255, 192, 203);
+}
+h1 {
+    line-height: 1.5;
+    letter-spacing: 1.2em;
+    text-shadow: none;
+    text-decoration: underline;
+    .google-fonts {
+      /* ここにGoogle Fontsを指定します */
+      font-family: "Noto Sans JP", sans-serif;
+   }
+ }
+.text-bold{
+  font-weight: bold;
+ }
+ body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
